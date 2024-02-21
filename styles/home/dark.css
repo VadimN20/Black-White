@@ -1,0 +1,27 @@
+.dark-theme {
+  color: #ffffff;
+  background-color: #292929;
+  text-decoration: none;
+}
+
+.d-shadow {
+  -webkit-box-shadow: 0px 9px 17px -6px rgba(255, 255, 255, 0.25);
+  -moz-box-shadow: 0px 9px 17px -6px rgba(255, 255, 255, 0.25);
+  box-shadow: 0px 9px 17px -6px rgba(255, 255, 255, 0.25);
+}
+
+.light-theme {
+  color: #292929;
+  background-color: #ffffff;
+}
+
+.l-shadow {
+  -webkit-box-shadow: 0px 9px 17px -6px rgba(34, 60, 80, 0.25);
+  -moz-box-shadow: 0px 9px 17px -6px rgba(34, 60, 80, 0.25);
+  box-shadow: 0px 9px 17px -6px rgba(34, 60, 80, 0.25);
+}
+
+.dark-btn {
+  color: #fff;
+  background-color: #292929;
+}
