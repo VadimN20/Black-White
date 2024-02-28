@@ -19,7 +19,6 @@ if (userThemeIsDark) {
     i.classList.add(darkShadow);
   });
 
-  console.log(document.querySelector(".btn_switch_theme"));
   document.querySelector(".btn_switch_theme").classList.add(darkBtn);
   userThemeIsDark = !userThemeIsDark;
 }

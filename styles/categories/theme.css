@@ -1,0 +1,29 @@
+.dark-theme {
+  color: #ffffff;
+  border-color: #ffffff;
+  background-color: #292929;
+}
+
+.dark-theme-hInfo {
+  color: #ffffff;
+  background-color: #292929c1;
+}
+
+.light-theme {
+  color: #292929;
+  border-color: #292929;
+  background-color: #ffffff;
+}
+
+.light-theme-hInfo {
+  color: #292929;
+  background-color: #ffffffc1;
+}
+
+.sh-dark {
+  box-shadow: 0px 12px 28px 0px rgba(255, 255, 255, 0.2);
+}
+
+.sh-light {
+  box-shadow: 0px 12px 28px 0px rgba(41, 41, 41, 0.2);
+}
